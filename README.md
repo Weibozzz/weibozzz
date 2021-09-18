@@ -2,9 +2,9 @@
 
 > 🚶 脚踏实地，一步一个脚印，留下最美的足迹 
 ### Hi there 👋 
-- 👯 我是 [《伟波前端基础教学》](https://github.com/Weibozzz/weibo-frontend) 作者
-- 📫 react ssr 写的 [个人博客](https://github.com/Weibozzz/next-blog)
 - 📖 自己总结的 [前端知识体系](https://github.com/Weibozzz/Weibozzz.github.io)
+- 📫 react ssr 写的 [个人博客](https://github.com/Weibozzz/next-blog)
+- 👯 个人常用 [常用工具库](https://github.com/Weibozzz/weibozzz-utils)
 ### 技能 🌱 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
